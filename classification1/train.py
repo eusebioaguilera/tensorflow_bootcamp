@@ -2,7 +2,6 @@ from cgi import test
 import pandas as pd
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import classification_report
 
 
